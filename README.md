@@ -1,7 +1,5 @@
 <center><h1 style ="font-family: inter">Thisaga Thusaraka</h1></center>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sleepwalker9826" alt="sleepwalker9826" /></a> </p>
-
 - 🔭 Working on **Something Interesting!**
 
 - 🌱 Learning **JavaScript**
