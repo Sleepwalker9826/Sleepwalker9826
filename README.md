@@ -1,14 +1,14 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sleepwalker9826&label=Profile%20views&color=0e75b6&style=flat" alt="sleepwalker9826" /> </p>
+<center><h1 style ="font-family: inter">Thisaga Thusaraka</h1></center>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sleepwalker9826" alt="sleepwalker9826" /></a> </p>
 
-- 🔭 I’m currently working on **Something Interesting!**
+- 🔭 Working on **Something Interesting!**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 Learning **JavaScript**
 
 - 💬 Ask me Anything about **Anything**
 
-- 📫 How to reach me **therhombuslk@Gmail.com**
+- 📫 Email **therhombuslk@Gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
